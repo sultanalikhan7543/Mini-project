@@ -1,0 +1,142 @@
+<!DOCTYPE html>
+<html>
+<head>
+WELCOME TO:
+
+<link rel="stylesheet" href="jeans.css">
+</head>
+<body>
+
+<h2>MY SHOOPING CART</h2>
+<p>Add to cart that you like most</p>
+
+<div class="row">
+  <div class="column">
+    <img src="C:\Users\LH\Desktop\pictures\blue jeans.jfif" alt="blue jeans" style="width:50%">
+    <p class="price">$11.99</p>
+  <p>It is a blue stretch able jeans.With in all sizes</p>
+  <p><button>Add to Cart</button></p>
+  </div>
+  <div class="column">
+    <img src="C:\Users\LH\Desktop\pictures\black jeans.jfif" alt="black jeans" style="width:50%">
+    <p class="price">$07.99</p>
+  <p>It is a black stretch able jeans.With in all sizes</p>
+  <p><button>Add to Cart</button></p>
+  </div>
+  <div class="column">
+    <img src="C:\Users\LH\Desktop\pictures\jeans.jfif" alt="jeans" style="width:50%">
+    <p class="price">$09.99</p>
+  <p>It is stretch able jeans.With in all sizes</p>
+  <p><button>Add to Cart</button></p>
+  </div>
+</div>
+
+<div class="row">
+  <div class="column">
+    <img src="C:\Users\LH\Desktop\pictures\black.jfif" alt="black" style="width:50%">
+    <p class="price">$12.99</p>
+  <p>It is a dark black stretch able jeans.With in all sizes</p>
+  <p><button>Add to Cart</button></p>
+  </div>
+  <div class="column">
+    <img src="C:\Users\LH\Desktop\pictures\white.jfif" alt="white" style="width:50%">
+    <p class="price">$11.99</p>
+  <p>It is a white stretch able jeans.With in all sizes</p>
+  <p><button>Add to Cart</button></p>
+  </div>
+  <div class="column">
+    <img src="C:\Users\LH\Desktop\pictures\jean.jfif" alt="jean" style="width:50%">
+    <p class="price">$10.99</p>
+  <p>It is stretch able jeans.With in all sizes</p>
+  <p><button>Add to Cart</button></p>
+  </div>
+</div>
+<h3>jeans for womens</h3>
+
+<div class="row">
+  <div class="column">
+    <img src="C:\Users\LH\Desktop\pictures\spring.jfif" alt="spring" style="width:50%">
+    <p class="price">$18.99</p>
+  <p>It is a spring collection jeans.With in all sizes</p>
+  <p><button>Add to Cart</button></p>
+  </div>
+  <div class="column">
+    <img src="C:\Users\LH\Desktop\pictures\loose.jfif" alt="loose" style="width:50%">
+    <p class="price">$16.99</p>
+  <p>It is a loose jeans.With in all sizes</p>
+  <p><button>Add to Cart</button></p>
+  </div>
+  <div class="column">
+    <img src="C:\Users\LH\Desktop\pictures\full white.jfif" alt="full white" style="width:50%">
+    <p class="price">$22.99</p>
+  <p>It is a full white stretch able jeans.With in all sizes</p>
+  <p><button>Add to Cart</button></p>
+  </div>
+</div>
+
+<div class="row">
+  <div class="column">
+    <img src="C:\Users\LH\Desktop\pictures\trouser.jfif" alt="trouser" style="width:50%">
+    <p class="price">$21.99</p>
+  <p>It is a trouser jeans.With in all sizes</p>
+  <p><button>Add to Cart</button></p>
+  </div>
+  <div class="column">
+    <img src="C:\Users\LH\Desktop\pictures\tight.jfif" alt="tight" style="width:50%">
+    <p class="price">$19.99</p>
+  <p>It is a tight jeans.With in all sizes</p>
+  <p><button>Add to Cart</button></p>
+  </div>
+  <div class="column">
+    <img src="C:\Users\LH\Desktop\pictures\jenu.jfif" alt="jenu" style="width:50%">
+    <p class="price">$20.99</p>
+  <p>It is a stretch able jeans.With in all sizes</p>
+  <p><button>Add to Cart</button></p>
+  </div>
+</div>
+<h4> Jeans for kids</h4>
+<div class="row">
+  <div class="column">
+    <img src="C:\Users\LH\Desktop\pictures\j.jfif" alt="j" style="width:50%">
+    <p class="price">$11.99</p>
+  <p>It is a jeans for kids.With in all sizes</p>
+  <p><button>Add to Cart</button></p>
+  </div>
+  <div class="column">
+    <img src="C:\Users\LH\Desktop\pictures\kid.jfif" alt="kid" style="width:50%">
+    <p class="price">$12.99</p>
+  <p>It is a jeans for kids.With in all sizes</p>
+  <p><button>Add to Cart</button></p>
+  </div>
+  <div class="column">
+    <img src="C:\Users\LH\Desktop\pictures\kids.jfif" alt="kids" style="width:50%">
+    <p class="price">$13.99</p>
+  <p>It is a jeans for kids.With in all sizes</p>
+  <p><button>Add to Cart</button></p>
+  </div>
+</div>
+
+<div class="row">
+  <div class="column">
+    <img src="C:\Users\LH\Desktop\pictures\small.jfif" alt="small" style="width:50%">
+    <p class="price">$14.99</p>
+  <p>It is a small jeans for kids.With in all sizes</p>
+  <p><button>Add to Cart</button></p>
+  </div>
+  <div class="column">
+    <img src="C:\Users\LH\Desktop\pictures\k.jfif" alt="k" style="width:50%">
+    <p class="price">$15.99</p>
+  <p>It is a jeans for kids.With in all sizes</p>
+  <p><button>Add to Cart</button></p>
+  </div>
+  <div class="column">
+    <img src="C:\Users\LH\Desktop\pictures\jacket.jfif" alt="jacket" style="width:50%">
+    <p class="price">$16.99</p>
+  <p>It is a jeans jacket for kids.With in all sizes</p>
+  <p><button>Add to Cart</button></p>
+  </div>
+</div>
+
+
+</body>
+</html>
